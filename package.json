@@ -1,0 +1,8 @@
+{
+  "name": "dont-ask-me-again",
+  "version": "1.0.0",
+  "description": "📚🤓「别再问我」是针对前端开发者的系列教程，专注于以简单易懂的方式讲明白某一个知识点。",
+  "repository": "https://github.com/dont-ask-me-again/dont-ask-me-again.git",
+  "author": "大板栗 <576839360@qq.com>",
+  "license": "CC BY-NC-ND 4.0"
+}
