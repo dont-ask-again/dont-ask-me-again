@@ -4,7 +4,7 @@
 
 ## Articles
 
-- [别再问我 Render Props 了](./blob/master/articles/dont-ask-me-render-props-again.md)
+- [别再问我 Render Props 了](./articles/dont-ask-me-render-props-again.md)
 
 ## License
 
